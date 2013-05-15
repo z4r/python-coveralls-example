@@ -8,5 +8,5 @@ def exdiff(a, b):
 
 
 if __name__ == '__main__':
-    print exsum(3,4)
-    print exdiff(2,2)
+    print(exsum(3,4))
+    print(exdiff(2,2))
